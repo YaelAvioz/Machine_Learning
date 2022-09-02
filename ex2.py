@@ -1,4 +1,3 @@
-# Yael Avioz, 207237421
 import sys
 
 import numpy as np
